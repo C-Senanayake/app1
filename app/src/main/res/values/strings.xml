@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">app1</string>
     <string name="hello_message">Hello world</string>
+    <string name="hi_chamath">Hi Chamath</string>
 </resources>
